@@ -2,9 +2,9 @@
 
 #My name is Ricardo
 
-#Working as IT assistant in an accountability office, helping with systems analysis and development.
+#Working as IT assistant in an accountability office, helping with systems analysis and development, JAVA, HTML, CSS, PYTHON, SQL...
 
-#I’m currently studying Systems analysis and Development bachellor degreee, JAVA, HTML, CSS, PYTHON, SQL..
+#I’m currently studying Systems analysis and Development bachellor degreee.
 
 #I’m looking to collaborate on everything I know.
 
