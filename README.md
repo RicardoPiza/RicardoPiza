@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/RicardoPiza?label=Follow&style=social)](https://github.com/RicardoPiza)
 
 
-I'm IT assistant in an accountability office, helping with systems analysis and development, JAVA, HTML, CSS, PYTHON, SQL.
+I'm IT assistant in an accountability office, helping with systems analysis and development, JAVA, HTML, CSS, C#, PYTHON, SQL.
 I’m currently studying Systems analysis and Development bachellor degreee.
 I’m looking to collaborate on everything I know.
 I’m looking for help with everything I don't know.
