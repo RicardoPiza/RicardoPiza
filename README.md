@@ -20,7 +20,7 @@ Visit my <a href = "https://www.linkedin.com/in/ricardo-henrique-piza-a31ab0209?
 
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoPiza&show_icons=true&theme=tokyonight)&emsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPiza&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RicardoPiza&show_icons=true&theme=tokyonight)&emsp;
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RicardoPiza&theme=tokyonight)
 
 
