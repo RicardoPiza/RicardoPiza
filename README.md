@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 
 
 
-🧔 My name is Ricardo
+My name is Ricardo
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RicardoPiza.RicardoPiza)
 [![Github](https://img.shields.io/github/followers/RicardoPiza?label=Follow&style=social)](https://github.com/RicardoPiza)
